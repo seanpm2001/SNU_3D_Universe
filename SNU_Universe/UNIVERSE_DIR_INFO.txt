@@ -1,0 +1,3 @@
+you are in the universe directory
+If a new galaxy is discovered, and has content, add in the galaxy name with planet and star names to it
+File version: 1 (October 2nd 2019)
