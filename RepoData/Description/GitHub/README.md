@@ -1,0 +1,1 @@
+The SNU 3D mode Universe module, a viewable map of all of the known Universe, from Earth (Milky way) to the farthest distance known to man, all right from your web browser. This module is required in certain SNU distributions. Learn how to build SNU here: https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de 
