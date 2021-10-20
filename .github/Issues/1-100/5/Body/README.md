@@ -1,6 +1,6 @@
 ***
 
-[FEATURE REQUEST] Add support for the full set of Messier objects
+### [FEATURE REQUEST] Add support for the full set of Messier objects
 
 I plan to start adding more parts of space for the user to explore through feature requests. There are so many cool things in the Galaxy, so I am starting with some of the best ones that we know of. I have already requested:
 
