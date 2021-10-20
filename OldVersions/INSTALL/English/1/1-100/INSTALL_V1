@@ -1,0 +1,21 @@
+---
+Installing this SNU 3D mode module project by @seanpm2001 and @snu-development
+---
+
+This project currently doesn't have to be installed to be viewed, and currently doesn't require installation, it is a website project, and will work in any standardized HTML5 viewer/browser with WHATWG compatibility.
+
+The project is written in HTML, and has very little JavaScript. I am currently deciding on fazing JavaScript out and replacing it with a better language, but it will remain in some functional way. It is far from complete, and is missing hundreds of thousands upon thousands of features.
+
+If you want to run the main project language file, you will need support for the HTML5 language, which most modern WHATWG compatible HTML viewers and web browsers are capable of viewing.
+
+If you want to view the image files, the majority of files are in PNG, JPG, and SVG formats. Make sure your computer can handle images of 2560x1440/2560x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as ???, and ???. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+---
+Install instructions file version: 1 (Tuesday, 2021 October 19th at 5:51 pm)
+---
